@@ -1,0 +1,212 @@
+1717618210025	geckodriver	INFO	Listening on 127.0.0.1:56174
+1717618213071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "561 ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileaom2l6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717618213292	Marionette	INFO	Marionette enabled
+1717618213367	Marionette	INFO	Listening on port 56182
+WebDriver BiDi listening on ws://127.0.0.1:56175
+Read port: 56182
+1717618213490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56175/devtools/browser/8bfb3db3-e095-4acb-b25d-1299ab0d55f6
+1717618215356	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1717618243895	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1717618832010	geckodriver	INFO	Listening on 127.0.0.1:56334
+1717618835031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "563 ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofiled7D9Ng"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717618835212	Marionette	INFO	Marionette enabled
+1717618835251	Marionette	INFO	Listening on port 56342
+WebDriver BiDi listening on ws://127.0.0.1:56335
+Read port: 56342
+1717618835351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56335/devtools/browser/6b8decfc-6ea6-4310-8bff-5bffa93be981
+1717618837090	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 752, MediaDecoderStateMachine #1] WARNING: Decoder=214f77a9800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 752, MediaDecoderStateMachine #1] WARNING: Decoder=214f77a9800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:167
+Exiting due to channel error.
+Exiting due to channel error.
+1717618866020	geckodriver	INFO	Listening on 127.0.0.1:56402
+1717618869078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "564 ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofile4kmEr1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717618869266	Marionette	INFO	Marionette enabled
+1717618869306	Marionette	INFO	Listening on port 56411
+WebDriver BiDi listening on ws://127.0.0.1:56403
+Read port: 56411
+1717618869407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56403/devtools/browser/6d94c898-ef18-4edd-b1dc-2bdd0e65c99b
+1717618871195	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1717618911062	geckodriver	INFO	Listening on 127.0.0.1:56479
+1717618914127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "564 ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofilewDbykt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717618914304	Marionette	INFO	Marionette enabled
+1717618914343	Marionette	INFO	Listening on port 56489
+WebDriver BiDi listening on ws://127.0.0.1:56480
+Read port: 56489
+1717618914465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56480/devtools/browser/c4d28355-9a6f-4288-9f50-34e3504b69b4
+1717618916143	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1717618945858	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717618952181	Marionette	INFO	Stopped listening on port 56489
+JavaScript warning: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval line 4338 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1754: Script terminated by timeout at:
+Vsa/this.done</<@https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js:1754:177
+
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 1361: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 4338: TypeError: can't access dead object
+1717619023639	geckodriver	INFO	Listening on 127.0.0.1:56586
+1717619026676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "565 ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofilerOeo1M"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717619026855	Marionette	INFO	Marionette enabled
+1717619026895	Marionette	INFO	Listening on port 56595
+WebDriver BiDi listening on ws://127.0.0.1:56587
+Read port: 56595
+1717619026995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56587/devtools/browser/37693fcb-f650-49c8-9570-e684f642618c
+1717619028744	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1717619049648	Marionette	INFO	Stopped listening on port 56595
+JavaScript warning: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval line 3111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1702: Script terminated by timeout at:
+c@https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js:1702:122
+e@https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js:1711:371
+
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 4553: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 3111: TypeError: can't access dead object
+1717619198343	geckodriver	INFO	Listening on 127.0.0.1:56676
+1717619201403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "566 ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileYTqGt1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717619201589	Marionette	INFO	Marionette enabled
+1717619201627	Marionette	INFO	Listening on port 56684
+WebDriver BiDi listening on ws://127.0.0.1:56677
+Read port: 56684
+1717619201732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56677/devtools/browser/7e55232e-bc24-467d-ae3c-7404726647b9
+1717619224943	Marionette	INFO	Stopped listening on port 56684
+JavaScript warning: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval line 6822 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1702: Script terminated by timeout at:
+c@https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js:1702:122
+e@https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js:1711:371
+
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 5991: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 6822: TypeError: can't access dead object
+1717619334062	geckodriver	INFO	Listening on 127.0.0.1:56765
+1717619337144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "567 ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileT3l4Lc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717619337339	Marionette	INFO	Marionette enabled
+1717619337381	Marionette	INFO	Listening on port 56776
+WebDriver BiDi listening on ws://127.0.0.1:56766
+Read port: 56776
+1717619337491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56766/devtools/browser/f8eb8f4a-caa0-41ed-b91a-c5b081bf74ba
+1717619339399	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1717619360453	Marionette	INFO	Stopped listening on port 56776
+JavaScript warning: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval line 5060 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1754: Script terminated by timeout at:
+Vsa/this.done</<@https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js:1754:177
+
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 6955: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 5060: TypeError: can't access dead object
+1717619458785	geckodriver	INFO	Listening on 127.0.0.1:56843
+1717619461837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileTYr8Mr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717619462019	Marionette	INFO	Marionette enabled
+1717619462062	Marionette	INFO	Listening on port 56851
+WebDriver BiDi listening on ws://127.0.0.1:56844
+Read port: 56851
+1717619462168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56844/devtools/browser/7ac3d681-6f35-4317-a8c7-dcc528777ce7
+1717619464657	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1717619492489	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval line 1329 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 7090: Script terminated by timeout at:
+f.handleObserveEvent@https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js:7090:30
+
+1717619518172	Marionette	INFO	Stopped listening on port 56851
+Dynamically enable window occlusion 1
+1717619530086	geckodriver	INFO	Listening on 127.0.0.1:56911
+1717619533122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\golf3\\AppData\\Local\\Temp\\rust_mozprofileLXJCps"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717619533308	Marionette	INFO	Marionette enabled
+1717619533350	Marionette	INFO	Listening on port 56920
+WebDriver BiDi listening on ws://127.0.0.1:56912
+Read port: 56920
+1717619533461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56912/devtools/browser/cb60b127-32e8-48a0-989e-8819f186e96a
+1717619563449	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval line 7078 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717619596563	Marionette	INFO	Stopped listening on port 56920
+JavaScript warning: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval line 7129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 1754: Script terminated by timeout at:
+Vsa/this.done</<@https://www.youtube.com/s/desktop/f8c8418d/jsbin/desktop_polymer.vflset/desktop_polymer.js:1754:177
+
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/watch?v=EzFXDvC-EwM, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 619: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/VrBmDepD36QM8NT_x8JgUX-5bgPMOWwOCLvNueWdGWw.js line 2 > eval, line 7129: TypeError: can't access dead object
